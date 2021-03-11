@@ -39,5 +39,7 @@ if(!empty($_FILES['file'])) {
             <input type="file" name="file" accept=".xls,.xlsx">
             <button type="submit">Загрузить файл</button>
         </form>
+        <a href="https://github.com/AlexKatyukov/momiac-test" target="_blank"Смотреть на GitHub</a>
     HTML;
+
 }
